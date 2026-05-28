@@ -1,4 +1,4 @@
 1:"$Sreact.fragment"
 2:I[92337,["/potal-admin/_next/static/chunks/483a12865e0bba97.js","/potal-admin/_next/static/chunks/1d3be43a6dda29b7.js"],"default"]
 3:I[64226,["/potal-admin/_next/static/chunks/483a12865e0bba97.js","/potal-admin/_next/static/chunks/1d3be43a6dda29b7.js"],"default"]
-0:{"buildId":"L8mSn3kdbB82E7--lYQ7q","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"LtOAmM8sSETCKJ0OgHGFZ","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
